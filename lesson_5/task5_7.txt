@@ -1,0 +1,6 @@
+company_1 ООО 10000 5000
+company_two ИП 20000 10000
+company_third АО 30000 40000
+company_4 ООО 40000 20000
+company_5 АО 50000 60000
+company_six ИП 60000 50000
